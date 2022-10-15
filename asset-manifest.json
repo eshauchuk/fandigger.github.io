@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/eshauchuk/fandigger.github.io/static/css/main.b31699d9.css",
+    "main.js": "/eshauchuk/fandigger.github.io/static/js/main.1fcadb30.js",
+    "static/media/yashch11.gif": "/eshauchuk/fandigger.github.io/static/media/yashch11.08e6bcf4478238d36471.gif",
+    "static/media/roboto-all-300-normal.woff": "/eshauchuk/fandigger.github.io/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
+    "static/media/roboto-latin-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-latin-300-normal.c48fb6765a9fcb00b330.woff2",
+    "static/media/roboto-cyrillic-ext-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
+    "static/media/roboto-latin-ext-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
+    "static/media/roboto-cyrillic-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-cyrillic-300-normal.1431d1cef06ad04f5458.woff2",
+    "static/media/roboto-greek-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-greek-300-normal.db2632771401f61463fe.woff2",
+    "static/media/roboto-vietnamese-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
+    "static/media/roboto-greek-ext-300-normal.woff2": "/eshauchuk/fandigger.github.io/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
+    "index.html": "/eshauchuk/fandigger.github.io/index.html",
+    "static/media/search.svg": "/eshauchuk/fandigger.github.io/static/media/search.881c794a9ddf484c3839b73030470731.svg",
+    "static/media/arrow_left.svg": "/eshauchuk/fandigger.github.io/static/media/arrow_left.b553318e4fdaed1113efb091889b7f47.svg",
+    "main.b31699d9.css.map": "/eshauchuk/fandigger.github.io/static/css/main.b31699d9.css.map",
+    "main.1fcadb30.js.map": "/eshauchuk/fandigger.github.io/static/js/main.1fcadb30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31699d9.css",
+    "static/js/main.1fcadb30.js"
+  ]
+}
